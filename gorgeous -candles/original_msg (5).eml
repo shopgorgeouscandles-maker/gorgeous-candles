@@ -1,0 +1,154 @@
+MIME-Version: 1.0
+Date: Sun, 29 Mar 2026 13:26:46 -0400
+Message-ID: <CAJzwSzNW+rMCq6JKwjhgKfe74_hV+0eQvmsSq+uxOw-C=C9kWQ@mail.gmail.com>
+Subject: 
+From: GorgeousCandles <shopgorgeouscandles@gmail.com>
+To: GorgeousCandles <shopgorgeouscandles@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000d03cdd064e2d09d2"
+
+--000000000000d03cdd064e2d09d2
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+"use client";
+
+import { motion } from "framer-motion";
+
+export default function Home() {
+  return (
+    <main style=3D{{ padding: "20px" }}>
+
+      {/* HEADER */}
+      <header style=3D{{ display: "flex", justifyContent: "space-between",
+marginBottom: "60px" }}>
+        <h1 style=3D{{ color: "#D4AF37" }}>GORGEOUS CANDLES</h1>
+      </header>
+
+      {/* HERO */}
+      <section style=3D{{ textAlign: "center", marginBottom: "80px" }}>
+        <motion.h2 initial=3D{{ opacity: 0 }} animate=3D{{ opacity: 1 }}
+style=3D{{ fontSize: "48px" }}>
+          Where Elegance Meets Glow
+        </motion.h2>
+        <p>100% Coconut Soy Wax =E2=80=A2 Clean Burn =E2=80=A2 Luxury Exper=
+ience</p>
+        <button style=3D{{ background: "#D4AF37", padding: "12px 24px",
+border: "none" }}>
+          Shop Collection
+        </button>
+      </section>
+
+      {/* CLEAN LUXURY */}
+      <section style=3D{{ marginBottom: "60px" }}>
+        <h2>Clean Luxury. Elevated Glow.</h2>
+        <p>
+          Crafted with 100% coconut soy wax for a cleaner, longer-lasting
+burn and a smooth,
+          luxurious finish.
+        </p>
+      </section>
+
+      {/* PRODUCTS */}
+      <section style=3D{{ marginBottom: "60px" }}>
+        <h2>Signature Collection</h2>
+        <div style=3D{{ display: "flex", gap: "20px" }}>
+          {["Your Candle 1", "Your Candle 2", "Your Candle 3"].map((item,
+i) =3D> (
+            <div key=3D{i} style=3D{{ border: "1px solid #333", padding: "2=
+0px"
+}}>
+              <div style=3D{{ height: "150px", background: "#222" }} />
+              <h3>{item}</h3>
+              <p>$30</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* WHY */}
+      <section style=3D{{ marginBottom: "60px" }}>
+        <h2>Why Choose Gorgeous Candles</h2>
+        <ul>
+          <li>100% coconut soy wax</li>
+          <li>Clean burn</li>
+          <li>Luxury fragrance</li>
+        </ul>
+      </section>
+
+      {/* CTA */}
+      <section style=3D{{ textAlign: "center" }}>
+        <h2>Experience the Glow</h2>
+        <button style=3D{{ background: "#D4AF37", padding: "12px 24px",
+border: "none" }}>
+          Shop Now
+        </button>
+      </section>
+
+    </main>
+  );
+}
+
+--000000000000d03cdd064e2d09d2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9ImF1dG8iPiZxdW90O3VzZSBjbGllbnQmcXVvdDs7PGJyPjxicj5pbXBvcnQgeyBt
+b3Rpb24gfSBmcm9tICZxdW90O2ZyYW1lci1tb3Rpb24mcXVvdDs7PGJyPjxicj5leHBvcnQgZGVm
+YXVsdCBmdW5jdGlvbiBIb21lKCkgezxicj7CoCByZXR1cm4gKDxicj7CoMKgwqAgJmx0O21haW4g
+c3R5bGU9e3sgcGFkZGluZzogJnF1b3Q7MjBweCZxdW90OyB9fSZndDs8YnI+wqDCoMKgwqDCoCA8
+YnI+wqDCoMKgwqDCoCB7LyogSEVBREVSICovfTxicj7CoMKgwqDCoMKgICZsdDtoZWFkZXIgc3R5
+bGU9e3sgZGlzcGxheTogJnF1b3Q7ZmxleCZxdW90OywganVzdGlmeUNvbnRlbnQ6ICZxdW90O3Nw
+YWNlLWJldHdlZW4mcXVvdDssIG1hcmdpbkJvdHRvbTogJnF1b3Q7NjBweCZxdW90OyB9fSZndDs8
+YnI+wqDCoMKgwqDCoMKgwqAgJmx0O2gxIHN0eWxlPXt7IGNvbG9yOiAmcXVvdDsjRDRBRjM3JnF1
+b3Q7IH19Jmd0O0dPUkdFT1VTIENBTkRMRVMmbHQ7L2gxJmd0Ozxicj7CoMKgwqDCoMKgICZsdDsv
+aGVhZGVyJmd0Ozxicj48YnI+wqDCoMKgwqDCoCB7LyogSEVSTyAqL308YnI+wqDCoMKgwqDCoCAm
+bHQ7c2VjdGlvbiBzdHlsZT17eyB0ZXh0QWxpZ246ICZxdW90O2NlbnRlciZxdW90OywgbWFyZ2lu
+Qm90dG9tOiAmcXVvdDs4MHB4JnF1b3Q7IH19Jmd0Ozxicj7CoMKgwqDCoMKgwqDCoCAmbHQ7bW90
+aW9uLmgyIGluaXRpYWw9e3sgb3BhY2l0eTogMCB9fSBhbmltYXRlPXt7IG9wYWNpdHk6IDEgfX0g
+c3R5bGU9e3sgZm9udFNpemU6ICZxdW90OzQ4cHgmcXVvdDsgfX0mZ3Q7PGJyPsKgwqDCoMKgwqDC
+oMKgwqDCoCBXaGVyZSBFbGVnYW5jZSBNZWV0cyBHbG93PGJyPsKgwqDCoMKgwqDCoMKgICZsdDsv
+bW90aW9uLmgyJmd0Ozxicj7CoMKgwqDCoMKgwqDCoCAmbHQ7cCZndDsxMDAlIENvY29udXQgU295
+IFdheCDigKIgQ2xlYW4gQnVybiDigKIgTHV4dXJ5IEV4cGVyaWVuY2UmbHQ7L3AmZ3Q7PGJyPsKg
+wqDCoMKgwqDCoMKgICZsdDtidXR0b24gc3R5bGU9e3sgYmFja2dyb3VuZDogJnF1b3Q7I0Q0QUYz
+NyZxdW90OywgcGFkZGluZzogJnF1b3Q7MTJweCAyNHB4JnF1b3Q7LCBib3JkZXI6ICZxdW90O25v
+bmUmcXVvdDsgfX0mZ3Q7PGJyPsKgwqDCoMKgwqDCoMKgwqDCoCBTaG9wIENvbGxlY3Rpb248YnI+
+wqDCoMKgwqDCoMKgwqAgJmx0Oy9idXR0b24mZ3Q7PGJyPsKgwqDCoMKgwqAgJmx0Oy9zZWN0aW9u
+Jmd0Ozxicj48YnI+wqDCoMKgwqDCoCB7LyogQ0xFQU4gTFVYVVJZICovfTxicj7CoMKgwqDCoMKg
+ICZsdDtzZWN0aW9uIHN0eWxlPXt7IG1hcmdpbkJvdHRvbTogJnF1b3Q7NjBweCZxdW90OyB9fSZn
+dDs8YnI+wqDCoMKgwqDCoMKgwqAgJmx0O2gyJmd0O0NsZWFuIEx1eHVyeS4gRWxldmF0ZWQgR2xv
+dy4mbHQ7L2gyJmd0Ozxicj7CoMKgwqDCoMKgwqDCoCAmbHQ7cCZndDs8YnI+wqDCoMKgwqDCoMKg
+wqDCoMKgIENyYWZ0ZWQgd2l0aCAxMDAlIGNvY29udXQgc295IHdheCBmb3IgYSBjbGVhbmVyLCBs
+b25nZXItbGFzdGluZyBidXJuIGFuZCBhIHNtb290aCw8YnI+wqDCoMKgwqDCoMKgwqDCoMKgIGx1
+eHVyaW91cyBmaW5pc2guPGJyPsKgwqDCoMKgwqDCoMKgICZsdDsvcCZndDs8YnI+wqDCoMKgwqDC
+oCAmbHQ7L3NlY3Rpb24mZ3Q7PGJyPjxicj7CoMKgwqDCoMKgIHsvKiBQUk9EVUNUUyAqL308YnI+
+wqDCoMKgwqDCoCAmbHQ7c2VjdGlvbiBzdHlsZT17eyBtYXJnaW5Cb3R0b206ICZxdW90OzYwcHgm
+cXVvdDsgfX0mZ3Q7PGJyPsKgwqDCoMKgwqDCoMKgICZsdDtoMiZndDtTaWduYXR1cmUgQ29sbGVj
+dGlvbiZsdDsvaDImZ3Q7PGJyPsKgwqDCoMKgwqDCoMKgICZsdDtkaXYgc3R5bGU9e3sgZGlzcGxh
+eTogJnF1b3Q7ZmxleCZxdW90OywgZ2FwOiAmcXVvdDsyMHB4JnF1b3Q7IH19Jmd0Ozxicj7CoMKg
+wqDCoMKgwqDCoMKgwqAge1smcXVvdDtZb3VyIENhbmRsZSAxJnF1b3Q7LCAmcXVvdDtZb3VyIENh
+bmRsZSAyJnF1b3Q7LCAmcXVvdDtZb3VyIENhbmRsZSAzJnF1b3Q7XS5tYXAoKGl0ZW0sIGkpID0m
+Z3Q7ICg8YnI+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoCAmbHQ7ZGl2IGtleT17aX0gc3R5bGU9e3sg
+Ym9yZGVyOiAmcXVvdDsxcHggc29saWQgIzMzMyZxdW90OywgcGFkZGluZzogJnF1b3Q7MjBweCZx
+dW90OyB9fSZndDs8YnI+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgJmx0O2RpdiBzdHlsZT17
+eyBoZWlnaHQ6ICZxdW90OzE1MHB4JnF1b3Q7LCBiYWNrZ3JvdW5kOiAmcXVvdDsjMjIyJnF1b3Q7
+IH19IC8mZ3Q7PGJyPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgICZsdDtoMyZndDt7aXRlbX0m
+bHQ7L2gzJmd0Ozxicj7CoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCAmbHQ7cCZndDskMzAmbHQ7
+L3AmZ3Q7PGJyPsKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgJmx0Oy9kaXYmZ3Q7PGJyPsKgwqDCoMKg
+wqDCoMKgwqDCoCApKX08YnI+wqDCoMKgwqDCoMKgwqAgJmx0Oy9kaXYmZ3Q7PGJyPsKgwqDCoMKg
+wqAgJmx0Oy9zZWN0aW9uJmd0Ozxicj48YnI+wqDCoMKgwqDCoCB7LyogV0hZICovfTxicj7CoMKg
+wqDCoMKgICZsdDtzZWN0aW9uIHN0eWxlPXt7IG1hcmdpbkJvdHRvbTogJnF1b3Q7NjBweCZxdW90
+OyB9fSZndDs8YnI+wqDCoMKgwqDCoMKgwqAgJmx0O2gyJmd0O1doeSBDaG9vc2UgR29yZ2VvdXMg
+Q2FuZGxlcyZsdDsvaDImZ3Q7PGJyPsKgwqDCoMKgwqDCoMKgICZsdDt1bCZndDs8YnI+wqDCoMKg
+wqDCoMKgwqDCoMKgICZsdDtsaSZndDsxMDAlIGNvY29udXQgc295IHdheCZsdDsvbGkmZ3Q7PGJy
+PsKgwqDCoMKgwqDCoMKgwqDCoCAmbHQ7bGkmZ3Q7Q2xlYW4gYnVybiZsdDsvbGkmZ3Q7PGJyPsKg
+wqDCoMKgwqDCoMKgwqDCoCAmbHQ7bGkmZ3Q7THV4dXJ5IGZyYWdyYW5jZSZsdDsvbGkmZ3Q7PGJy
+PsKgwqDCoMKgwqDCoMKgICZsdDsvdWwmZ3Q7PGJyPsKgwqDCoMKgwqAgJmx0Oy9zZWN0aW9uJmd0
+Ozxicj48YnI+wqDCoMKgwqDCoCB7LyogQ1RBICovfTxicj7CoMKgwqDCoMKgICZsdDtzZWN0aW9u
+IHN0eWxlPXt7IHRleHRBbGlnbjogJnF1b3Q7Y2VudGVyJnF1b3Q7IH19Jmd0Ozxicj7CoMKgwqDC
+oMKgwqDCoCAmbHQ7aDImZ3Q7RXhwZXJpZW5jZSB0aGUgR2xvdyZsdDsvaDImZ3Q7PGJyPsKgwqDC
+oMKgwqDCoMKgICZsdDtidXR0b24gc3R5bGU9e3sgYmFja2dyb3VuZDogJnF1b3Q7I0Q0QUYzNyZx
+dW90OywgcGFkZGluZzogJnF1b3Q7MTJweCAyNHB4JnF1b3Q7LCBib3JkZXI6ICZxdW90O25vbmUm
+cXVvdDsgfX0mZ3Q7PGJyPsKgwqDCoMKgwqDCoMKgwqDCoCBTaG9wIE5vdzxicj7CoMKgwqDCoMKg
+wqDCoCAmbHQ7L2J1dHRvbiZndDs8YnI+wqDCoMKgwqDCoCAmbHQ7L3NlY3Rpb24mZ3Q7PGJyPjxi
+cj7CoMKgwqAgJmx0Oy9tYWluJmd0Ozxicj7CoCApOzxicj59wqA8L2Rpdj4NCg==
+--000000000000d03cdd064e2d09d2--

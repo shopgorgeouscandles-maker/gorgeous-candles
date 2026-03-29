@@ -1,0 +1,31 @@
+MIME-Version: 1.0
+Date: Sun, 29 Mar 2026 13:26:30 -0400
+Message-ID: <CAJzwSzPh-406a9rCYEnFk177XtftmnTLKAW62qqq7pbFw_vRsg@mail.gmail.com>
+Subject: 
+From: GorgeousCandles <shopgorgeouscandles@gmail.com>
+To: GorgeousCandles <shopgorgeouscandles@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000d84a49064e2d08a5"
+
+--000000000000d84a49064e2d08a5
+Content-Type: text/plain; charset="UTF-8"
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+}
+
+button {
+  cursor: pointer;
+}
+
+--000000000000d84a49064e2d08a5
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">body {<br>=C2=A0 margin: 0;<br>=C2=A0 font-family: sans-s=
+erif;<br>=C2=A0 background-color: black;<br>=C2=A0 color: white;<br>}<br><b=
+r>button {<br>=C2=A0 cursor: pointer;<br>}=C2=A0</div>
+
+--000000000000d84a49064e2d08a5--

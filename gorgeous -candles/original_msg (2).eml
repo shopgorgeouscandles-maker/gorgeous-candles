@@ -1,0 +1,44 @@
+MIME-Version: 1.0
+Date: Sun, 29 Mar 2026 13:26:05 -0400
+Message-ID: <CAJzwSzPySYLqa21bbsWXcLiaJ9MPesoz65zYeQeiGPJEw-AH_g@mail.gmail.com>
+Subject: 
+From: GorgeousCandles <shopgorgeouscandles@gmail.com>
+To: GorgeousCandles <shopgorgeouscandles@gmail.com>
+Content-Type: multipart/alternative; boundary="0000000000006571a0064e2d0769"
+
+--0000000000006571a0064e2d0769
+Content-Type: text/plain; charset="UTF-8"
+
+{
+  "name": "gorgeous-candles",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.0.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "framer-motion": "^10.16.4"
+  }
+}
+
+--0000000000006571a0064e2d0769
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">{<br>=C2=A0 &quot;name&quot;: &quot;gorgeous-candles&quot=
+;,<br>=C2=A0 &quot;version&quot;: &quot;1.0.0&quot;,<br>=C2=A0 &quot;privat=
+e&quot;: true,<br>=C2=A0 &quot;scripts&quot;: {<br>=C2=A0=C2=A0=C2=A0 &quot=
+;dev&quot;: &quot;next dev&quot;,<br>=C2=A0=C2=A0=C2=A0 &quot;build&quot;: =
+&quot;next build&quot;,<br>=C2=A0=C2=A0=C2=A0 &quot;start&quot;: &quot;next=
+ start&quot;<br>=C2=A0 },<br>=C2=A0 &quot;dependencies&quot;: {<br>=C2=A0=
+=C2=A0=C2=A0 &quot;next&quot;: &quot;14.0.0&quot;,<br>=C2=A0=C2=A0=C2=A0 &q=
+uot;react&quot;: &quot;^18&quot;,<br>=C2=A0=C2=A0=C2=A0 &quot;react-dom&quo=
+t;: &quot;^18&quot;,<br>=C2=A0=C2=A0=C2=A0 &quot;framer-motion&quot;: &quot=
+;^10.16.4&quot;<br>=C2=A0 }<br>}=C2=A0</div>
+
+--0000000000006571a0064e2d0769--
